@@ -1,3 +1,3 @@
 # Web programmer requirements
 
-- JavaScript documentation [http://usejsdoc.org/](JSDoc)
+- JavaScript documentation [JSDoc](http://usejsdoc.org/)
